@@ -1,1 +1,1 @@
-# tushar-python
+# aws-ml-py
